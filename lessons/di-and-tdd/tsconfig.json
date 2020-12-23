@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "rootDirs": ["."],
+    "sourceMap": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2017", "dom"],
+    "baseUrl": ".",
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "noob-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sphinx-software/noob-training.git",
+  "author": "Rikky <son.levuthai@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "lessons/*"
+  ],
+  "private": true
+}
