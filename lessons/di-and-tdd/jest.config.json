@@ -1,3 +1,5 @@
 {
-    "verbose": true
+    "verbose": false,
+    "testEnvironment": "node",
+    "preset": "ts-jest"
 }
