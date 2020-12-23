@@ -2,6 +2,7 @@
   "name": "@noobs/dat",
   "version": "1.0.0",
   "scripts": {
+    "start": "ts-node src/index.ts",
     "test": "jest src/**/*.spec.ts",
     "format": "prettier --config .prettierrc.json 'src/**/*.ts' --write"
   },
